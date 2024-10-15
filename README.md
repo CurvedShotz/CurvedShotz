@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development And A.I
 - 🌱 I’m currently learning python, html,css and javascript
 - 💞️ I’m looking to collaborate on open source A.I projects
-- 📫 How to reach me gmail: comfortolowe3@gmail.com
+- 📫 How to reach via email: comfortolowe3@gmail.com
 - 😄 Pronouns: ... ...
 - ⚡ Fun fact: ... i like video games
 
